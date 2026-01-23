@@ -135,7 +135,7 @@ export default function About() {
 
               <div className='flex flex-col items-end justify-center xl:items-center'>
                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                  <AnimatedNumberFramerMotion value={3} />+
+                  <AnimatedNumberFramerMotion value={4} />+
                 </span>
                 <h2
                   className='mb-4 text-xl font-medium capitalize text-dark/75 dark:text-light/75 

@@ -61,8 +61,7 @@ const Experience = () => {
             // companyLink="https://google.com"
             time="2022-2023"
             address="Hyderabad"
-            work="Worked on a team responsible for developing new features for Google's search engine, including improving the accuracy and relevance of search results and developing new tools for data analysis and visualization."
-          />
+            work="Worked as Consultant for Netenrich , Implemented user onboarding flow reducing the user onboarding time by 80%."/>
 
           <Details
             position="Software Engineer"
@@ -70,10 +69,16 @@ const Experience = () => {
             // companyLink="https://facebook.com"
             time="2023-present"
             address="Hyderabad"
-            work="Worked on a team responsible for developing a new mobile app
-              feature that allowed users to create and share short-form video
-              content, including designing and implementing a new user interface
-              and developing the backend infrastructure to support the feature."
+            work="Worked as a Software Engineer in Netenrich, Hyderabad. Developed and maintained web applications using React, Node.js, and MongoDB. Collaborated with cross-functional teams to deliver high-quality software solutions for cybersecurity platform. Implemented features such as user authentication, authorization, and role-based access control.
+            Created an Internal platform for netenrich to manage agents using langchain."
+            />
+          <Details
+            position="Full Stack Developer "
+            company="Yashoda Hospitals"
+            companyLink="www.yashodahospitals.com"
+            time="2024-present"
+            address="Hyderabad"
+            work="Implemented End to end features of Hospital Management System along with Frontend and Backend . Completed the product within a 10months."
           />
 
           <Details
@@ -82,8 +87,7 @@ const Experience = () => {
             companyLink="www.contentql.com"
             time="2021-present"
             address="Hyderabad"
-            work="Worked on a team responsible for developing Amazon's mobile app, including implementing new features such as product recommendations and user reviews, and optimizing the app's performance and reliability."
-          />
+            work="Created a custom CMS portal using PayloadCMS for developers to use the CMS to create and manage content for their websites with minimal code and effort." />
 
           {/* <Details
               position="Software Developer Intern"
