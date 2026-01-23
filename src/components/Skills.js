@@ -46,20 +46,17 @@ const Skills = () => {
 
         <Skill name="HTML" x="-20vw" y="2vw" />
 
-        <Skill name="CSS" x="-5vw" y="-10vw" />
+        <Skill name="PostgreSQL" x="-5vw" y="-10vw" />
         <Skill name="JavaScript" x="20vw" y="6vw" />
         <Skill name="ReactJS" x="0vw" y="12vw" />
         <Skill name="NextJS" x="-20vw" y="-15vw" />
         <Skill name="Typescript" x="15vw" y="-12vw" />
-        <Skill name="Github" x="-35vw" y="-5vw" />
-        <Skill name="Web Design" x="32vw" y="-5vw" />
+        <Skill name="ExpressJS" x="-35vw" y="-5vw" />
+        <Skill name="PayloadCMS" x="32vw" y="-5vw" />
         <Skill name="Auth0" x="0vw" y="-20vw" />
         <Skill name="NodeJS" x="-25vw" y="18vw" />
         <Skill name="Tawilwind CSS" x="28vw" y="18vw" />
         <Skill name="MongoDB" x="0vw" y="24vw" />
-        <Skill name="ExpressJS" x="25vw" y="24vw" />
-        <Skill name="PostgreSQL" x="-25vw" y="40vw" />
-        <Skill name="PayloadCMS" x="25vw" y="40vw" />
       </div>
     </>
   );
