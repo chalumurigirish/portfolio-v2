@@ -59,7 +59,7 @@ const Experience = () => {
             position="Associate Software Engineer"
             company="KloudPortal"
             // companyLink="https://google.com"
-            time="2019-2023"
+            time="2020-2023"
             address="Hyderabad"
             work="Worked as Consultant for Netenrich , Implemented user onboarding flow reducing the user onboarding time by 80%."/>
 

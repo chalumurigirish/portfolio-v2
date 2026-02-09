@@ -48,7 +48,7 @@ export default function Home() {
               </p>
               <div className='mt-2 flex items-center self-start lg:self-center'>
                <a
-                  href="/girish-fullstack-dev-2026.pdf"
+                  href="/girish-latest-resume-2026.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   download
